@@ -4,9 +4,7 @@
 
 # Skills for design engineers
 
-A collection of [agent skills](https://code.claude.com/docs/en/skills) I use with Claude Code to design and ship faster. They cover building UI components from Figma, design tokens, Storybook, and Linear issue + PR workflows.
-
-Each skill is a self-contained folder — a `SKILL.md` plus supporting reference files — that you can drop into your own agent setup and adapt. They're brand-agnostic, so nothing's tied to my design tokens or workflow.
+[Agent skills](https://code.claude.com/docs/en/skills) I use with Claude Code to design and ship faster. They cover building UI components from Figma, design tokens, Storybook, and Linear issue + PR workflows.
 
 ## Install
 
