@@ -1,5 +1,5 @@
 <a href="https://nicktarasov.com">
-  <img width="200" height="200" alt="skills" src="assets/skills.png" />
+  <img width="320" height="168" alt="skills" src="assets/skills.png" />
 </a>
 
 # skills
