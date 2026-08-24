@@ -1,3 +1,7 @@
+<a href="https://nicktarasov.com">
+  <img width="200" height="200" alt="skills" src="assets/skills.png" />
+</a>
+
 # skills
 
 A small collection of [agent skills](https://code.claude.com/docs/en/skills) I use with Claude Code, published as reusable, brand-agnostic templates. Each skill is a self-contained folder — a `SKILL.md` plus supporting reference files — that you can drop into your own agent setup and adapt.
