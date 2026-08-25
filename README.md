@@ -4,7 +4,7 @@
 
 # Skills for design engineers
 
-Agent skills I use with Claude Code to design and ship faster. They cover building UI components from Figma, design tokens, Storybook, and Linear issue + PR workflows.
+Agent skills for designing and shipping faster — building UI from Figma, plus Linear issue and PR workflows.
 
 ## Install
 
