@@ -22,7 +22,3 @@ npx skills@latest add nickdraft/skills
 
 - **design-component** targets a **React + Tailwind** project — including [Next.js](https://nextjs.org/) (add `"use client"` to interactive components in the App Router) — using [class-variance-authority](https://cva.style/), [Radix UI](https://www.radix-ui.com/), [framer-motion](https://motion.dev/), and [Storybook](https://storybook.js.org/) (latest, 10.x), plus a Figma MCP server for extracting specs. It's React-specific by design; Vue/Svelte/Solid aren't supported as-is.
 - **linear-pr-merge-sync** and **linear-prioritise-issues** require a [Linear MCP server](https://linear.app/docs/mcp) (`mcp__linear-server__*` tools).
-
----
-
-[MIT](LICENSE) © Nick Tarasov
