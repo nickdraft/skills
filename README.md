@@ -1,5 +1,5 @@
 <a href="https://nicktarasov.com">
-  <img width="320" height="168" alt="skills" src="assets/skills.png" />
+  <img width="320" height="168" alt="skills" src="https://cdn.nicktarasov.com/skills/banner.png?v=a4ebd3d7" />
 </a>
 
 # Skills for design engineers
