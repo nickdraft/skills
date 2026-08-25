@@ -12,13 +12,6 @@ Agent skills I use with Claude Code to design and ship faster. They cover buildi
 npx skills@latest add nickdraft/skills
 ```
 
-Or add a single skill manually by cloning its folder into your agents directory:
-
-```bash
-git clone https://github.com/nickdraft/skills
-cp -R skills/skills/<name> ~/.claude/skills/<name>
-```
-
 ## Skills
 
 - **[design-component](skills/design-component/SKILL.md)** — Design-system workflow for building UI components: Figma → build (CVA, Radix, `cn()`, tokens) → Storybook (CSF3 + autodocs) → QA.
