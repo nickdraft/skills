@@ -4,7 +4,7 @@
 
 # Skills for design engineers
 
-Agent skills for designing and shipping faster — building UI from Figma, plus Linear issue and PR workflows.
+Agent skills for designing and shipping faster. Building UI from Figma, plus Linear issue and PR workflows.
 
 ## Install
 
@@ -14,9 +14,9 @@ npx skills@latest add nickdraft/skills
 
 ## Skills
 
-- **[design-component](skills/design-component/SKILL.md)** — Design-system workflow for building UI components: Figma → build (CVA, Radix, `cn()`, tokens) → Storybook (CSF3 + autodocs) → QA.
-- **[linear-pr-merge-sync](skills/linear-pr-merge-sync/SKILL.md)** — Reconciles Linear issues, sub-issues, and project status against a PR (open or merged): comments what shipped, flags what's missing, and files follow-up issues, all gated on your approval.
-- **[linear-prioritise-issues](skills/linear-prioritise-issues/SKILL.md)** — Wires an explicit execution order across a set of Linear issues using blocking relations + priority bumps, so the sequence reads at a glance in list views.
+- **[design-component](skills/design-component/SKILL.md)**: Design-system workflow for building UI components: Figma → build (CVA, Radix, `cn()`, tokens) → Storybook (CSF3 + autodocs) → QA.
+- **[linear-pr-merge-sync](skills/linear-pr-merge-sync/SKILL.md)**: Reconciles Linear issues, sub-issues, and project status against a PR (open or merged): comments what shipped, flags what's missing, and files follow-up issues, all gated on your approval.
+- **[linear-prioritise-issues](skills/linear-prioritise-issues/SKILL.md)**: Wires an explicit execution order across a set of Linear issues using blocking relations + priority bumps, so the sequence reads at a glance in list views.
 
 ## Requirements
 
